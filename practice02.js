@@ -11,7 +11,6 @@ addbtn3.addEventListener("click", function () {
   if (noTextAreas == 0) {
     let html = divelem.innerHtml;
     divelem.innerHTML = `${html}`;
-    console.log(html);
   }
 
   //function is for uppercase text
@@ -20,7 +19,6 @@ addbtn3.addEventListener("click", function () {
   divelem.innerHTML = textarea.value;
   localStorage.setItem("text", textarea.value.toUpperCase());
   let val2 = localStorage.getItem("text");
-  console.log(val2);
   text2 = document.createTextNode(val2);
   location.reload();
 });
@@ -35,7 +33,6 @@ addbtn4.addEventListener("click", function () {
   divelem.innerHTML = textarea.value;
   localStorage.setItem("text", textarea.value.toLowerCase());
   let val3 = localStorage.getItem("text");
-  console.log(val3);
   text3 = document.createTextNode(val3);
   location.reload();
 
