@@ -9,7 +9,6 @@ if (val == null) {
   text = document.createTextNode("Click to add the text...");
 } else {
   text = document.createTextNode(val);
-  console.log(text);
 }
 
 divelem.appendChild(text);
@@ -20,7 +19,6 @@ document.getElementById("textarea").addEventListener("click", function () {
   if (noTextAreas == 0) {
     let html = divelem.innerHtml;
     divelem.innerHTML = `${html}`;
-    console.log(html);
   }
 
   //function is for uppercase text
@@ -62,11 +60,10 @@ document.getElementById("textarea").addEventListener("click", function () {
 
   //function is for highlights the text
   //button - 6
+  
   let text6;
   document.getElementById("addbtn6").onclick = bgcolor;
   function bgcolor() {
-    console.log("sad");
-    // setti
     let loopID2 = setTimeout(bgcolor, 500); // 500 milliseconds delay
     var index = Math.floor(Math.random() * 10);
     var ColorValue = "FFFFFF"; // default color - white (index = 0)
