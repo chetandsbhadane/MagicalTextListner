@@ -30,7 +30,7 @@ Text will be in italic form.
 Text will be highlighted with the different background colours.
 
 ## Screenshots
-<img src='screenshots/ss1.'>
+<img src='screenshots/ss1.png'>
 ### Shadow Text
 <img src='screenshots/ss2.png'>
 ### Capital Text
