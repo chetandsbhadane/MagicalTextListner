@@ -1,7 +1,7 @@
 # Magical Text Listner
 
 - This mini project is fully created with javascript and little bit html css with bootstrap responsive.
-- Visit here 
+- Visit here <a href="https://chetandsbhadane.github.io/MagicalTextListner/">Magical Text Listner</a>
 
 # How to use
 1. You have to type in the given textarea something.
@@ -30,10 +30,10 @@ Text will be in italic form.
 Text will be highlighted with the different background colours.
 
 ##Screenshots
-<img src='screenshots/game2.png'>
+<img src='screenshots/ss1.'>
 
-<img src='screenshots/game1.png'>
+<img src='screenshots/ss2.png'>
 
-<img src='screenshots/game2.png'>
+<img src='screenshots/ss3.png'>
 
-<img src='screenshots/game1.png'>
+<img src='screenshots/ss4.png'>
