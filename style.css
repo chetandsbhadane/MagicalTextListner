@@ -1,0 +1,13 @@
+.div2 {
+    background-color: #302244;
+    border: 10px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
+    color: aliceblue;
+
+  }
+
+  .btndiv button{
+        margin: 20px 10px 0px 10px;
+  }
+  
