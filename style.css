@@ -11,7 +11,7 @@
         margin: 20px 10px 0px 10px;
   }
 
-  @media screen and (max-width: 280px) {
+  @media screen and (max-width: 300px) {
       #textarea {
             width: 200px;
       }
