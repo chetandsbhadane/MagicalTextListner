@@ -31,12 +31,16 @@ Text will be highlighted with the different background colours.
 
 ## Screenshots
 <img src='screenshots/ss1.png'>
+
 ### Shadow Text
 <img src='screenshots/ss2.png'>
+
 ### Capital Text
 <img src='screenshots/ss3.png'>
+
 ### Italic text
 <img src='screenshots/ss4.png'>
+
 ### Highlighted text
 
 And much more functionalities like small text, save text, remove text etc.
