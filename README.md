@@ -29,14 +29,14 @@ Text will be in italic form.
 ### Button 7 [Highlight Text]
 Text will be highlighted with the different background colours.
 
-##Screenshots
+## Screenshots
 <img src='screenshots/ss1.'>
-###Shadow Text
+### Shadow Text
 <img src='screenshots/ss2.png'>
-###Capital Text
+### Capital Text
 <img src='screenshots/ss3.png'>
-###Italic text
+### Italic text
 <img src='screenshots/ss4.png'>
-###Highlighted text
+### Highlighted text
 
-and much more functionalities like small text, save text, remove text etc.
+And much more functionalities like small text, save text, remove text etc.
