@@ -3,6 +3,8 @@
 - This mini project is fully created with javascript and little bit html css with bootstrap responsive.
 - Visit here <a href="https://chetandsbhadane.github.io/MagicalTextListner/">Magical Text Listner</a>
 
+<button type="button" id="addbtn" class="btn btn-light">Replace text</button>
+
 # How to use
 1. You have to type in the given textarea something.
 2. Then you can use this magical text lister with using buttons belonging to it.
