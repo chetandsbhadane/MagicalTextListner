@@ -1,6 +1,6 @@
 # Magical Text Listner
 
-- This mini project is fully created with javascript and little bit html css with bootstrap responsive.
+- This mini project is fully created with javascript and little bit html css with bootstrap responsiveness.
 - Visit here <a href="https://chetandsbhadane.github.io/MagicalTextListner/">Magical Text Listner</a>
 
 # How to use
