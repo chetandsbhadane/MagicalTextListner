@@ -1,4 +1,3 @@
-console.log("this is practice exercise");
 
 let divelem = document.getElementById("textarea");
 
